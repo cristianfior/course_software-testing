@@ -1,7 +1,6 @@
 # Module 04: Testing types: What to test?
 ### Funcionality Test
 Validate that the funcionalities of the software are correctly working
-- Unit, Integration, System, Acceptance, Alpha, Beta and Regression Tests;
 
 ### Performance Test
 Validate the performance of the system, focusing on the response time
