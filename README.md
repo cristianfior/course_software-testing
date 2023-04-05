@@ -1,4 +1,4 @@
 # README
-### Hope you enjoy!
+### Hope you all enjoy!
 
 **That's all folks!**
