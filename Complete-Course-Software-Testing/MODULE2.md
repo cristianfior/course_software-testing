@@ -9,14 +9,18 @@ Test the smallest part of the system: a class, a method, a function and etc.
 
 ### Level 2: Integration Test
 Test a component of the system: a set of classes, method or functions and etc.
-- Tested by the developer;
+- Tested by the developer and can be tested by tester;
 - Usually automated with frameworks like: JUnit, PHPUnit...
 - Can be did before the software is ready;
+- Smoke test, verify that the core or main functionalities are working as expected
+- Sanity test, check if the product is working correctly when new module or functionality gets implemented
 
 ### Level 3: System Test
 Test the software as if you are the user with the vision of a tester.
 - Planned and executed by tester team;
 - Graphic test, made after the software is ready;
+- Smoke test, verify that the core or main functionalities are working as expected
+- Sanity test, check if the product is working correctly when new module or functionality gets implemented
 
 ### Level 4: Acceptance Test
 Teste the software by the point of view of the user.
