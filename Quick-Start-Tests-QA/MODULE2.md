@@ -40,4 +40,5 @@
     - Authenticity
 
 > Business tests: functional tests
+
 > Technical tests: non-functional tests
