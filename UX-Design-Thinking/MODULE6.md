@@ -1,0 +1,13 @@
+# MODULE6: User Experience
+- Show only the necessary information, in small doses
+- Worry about hierarchy
+    - What is the principal action?
+    - What is the secondary actions?
+    - What is the minimum information that users need to know to perform the task?
+    - Images are necessary?
+    - What is the minimum amount of navigation elements?
+    - What is the first information you want them to read?
+- Simplify forms
+- Guess intentions
+- Microinteractions
+- UX Checklist - Fabricio Teixeira
